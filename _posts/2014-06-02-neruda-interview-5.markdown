@@ -2,7 +2,7 @@
 layout: post
 title:  "聂努达访谈05"
 date:   2014-06-02 16:38:24
-categories: jekyll update
+categories:
 ---
 
     我们是由梦想锻造而成，可我们渺小的一生，前后都被酣睡环绕。--莎士比亚<暴风雨>
